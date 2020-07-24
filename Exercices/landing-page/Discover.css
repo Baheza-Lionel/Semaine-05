@@ -1,0 +1,150 @@
+.first-container{
+  background-color: #2F3038;
+  color: white;
+  width: 1500px;
+  height: 700px;
+}
+#logo{
+  position: relative;;
+  left:5%;
+  top:5px;
+}
+.nom-du-logo{
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+  left:10%;
+  bottom: 45px;
+}
+.nav{
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-right: 40px;
+  position: relative;
+  left:700px;
+  bottom:20px;
+
+}
+.nav a{
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-right: 40px;
+  position: relative;
+  left: 450px;
+  bottom:40px ;
+}
+.title{
+  font-size:xx-large;
+  position: relative;
+  left:20%;
+  top:50px;
+
+}
+
+.footer a,{
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-right: 40px;
+  position: relative;
+  left: 450px;
+  top:250px ;
+}
+.footer,{
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-right: 40px;
+  position: relative;
+  left:700px;
+  top:150px;
+}
+footer{
+  width: 1500px;
+  height: 50px;
+  background-color:brown;
+  position: absolute;
+  top:657px;
+}
+.Insta{
+  position: relative;
+left: 1250px;
+top:7px;
+}
+.Fb{
+  position: relative;
+  left: 1000px;
+  top:7px;
+}
+
+  span{
+    display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-right: 40px;
+  position: relative;
+  left: 100px;
+  top:-15px ;
+}
+p{display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-right: 40px;
+  position: relative;
+  left:300px;
+  top:-45px;
+
+}
+.covers{
+  position: relative;
+  left:1100px;
+  top: 10px;
+}
+.covers1{
+  position: relative;
+  left:1100px;
+  top: 10px;
+}
+#cover1{
+  width:150px;
+  height: 150px;
+}
+#cover2{
+  width: 150px;
+  height: 150px;
+}
+#cover3{
+  width: 150px;
+  height: 150px;
+}
+#cover4{
+  width: 150px;
+  height: 150px;
+}
+#icon-micro{
+  width: 90px;
+  height: 90px;
+  padding:20px;
+  border-radius: 10px;
+  background-color: brown;
+  margin: 10px;
+  margin-right: 40px;
+  position: relative;
+  top: -200px;
+  left:300px;
+
+}
+#icon-more{
+  width: 90px;
+  height: 90px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: brown;
+  margin: 10px;
+  margin-right: 40px;
+  position: relative;
+  top: -200px;
+  left: 300px;
+
+}
